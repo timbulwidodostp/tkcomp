@@ -1,6 +1,8 @@
 # tkcomp
 Tukey-Kramer pairwise comparisons Use tkcomp With STATA 19
 
+https://www.youtube.com/watch?v=BHzuv85CCkY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
